@@ -32,7 +32,7 @@
 
 ## About Me
 
-I am a Full Stack Developer and AI/ML Engineering student pursuing a B.Tech in Computer Science & Engineering (AI & ML) in India. I build production-grade web applications and AI-powered products end to end from system architecture and database design to interface engineering and deployment.
+I am a Full Stack Developer and AI/ML Engineering student pursuing a B.Tech in Computer Science & Engineering (AI & ML) in India. I build production-grade web applications and AI-powered products end to end — from system architecture and database design to interface engineering and deployment.
 
 My focus spans **Full Stack Engineering**, **AI Engineering**, **Product Engineering**, and **Modern Web Applications**, backed by an emphasis on scalable backend systems and thoughtful UI/UX design. I am the founder of **HAQJobs**, an AI-powered legal hiring platform, and I actively contribute to open source while exploring how AI agents and LLM applications can reshape everyday workflows.
 
@@ -330,16 +330,6 @@ Collection of Java projects demonstrating core object-oriented programming conce
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=drannonymousxx&theme=tokyonight&hide_border=true" width="70%" loading="lazy"/>
-
-</div>
-
-<br/>
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=drannonymousxx&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" width="100%" loading="lazy"/>
 
 </div>
 
